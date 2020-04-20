@@ -1,0 +1,9 @@
+.place__paragraph-container {
+  margin-top: -3px;
+}
+
+@media all and (max-width: 768px) {
+  .place__paragraph-container {
+    margin-top: 0;
+  }
+}
