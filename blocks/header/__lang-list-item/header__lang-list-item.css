@@ -1,7 +1,12 @@
 .header__lang-list-item {
   margin-right: 18px;
+  transition: all 0.5s linear;
 }
 
 .header__lang-list-item:last-of-type {
   margin-right: 0;
+}
+
+.header__lang-list-item:hover {
+  opacity: 0.8;
 }

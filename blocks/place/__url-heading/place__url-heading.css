@@ -4,4 +4,6 @@
   letter-spacing: 0.2em;
   color: #AAAAAA;
   margin: 0 0 12px;
+  text-transform: uppercase;
+  font-weight: 400;
 }
